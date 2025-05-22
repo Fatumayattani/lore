@@ -57,32 +57,6 @@ avalanche blockchain create lore
 avalanche blockchain deploy lore --network local
 ```
 
-## 📜 Smart Contract Structure
-```solidity
-// StoryRegistry.sol (simplified)
-pragma solidity ^0.8.18;
-
-contract LoreStory {
-    struct Contribution {
-        address author;
-        string line;
-        uint256 timestamp;
-    }
-    
-    Contribution[] public story;
-    uint256 public fee = 0.1 ether; // 0.1 LOR
-    
-    function addLine(string memory _line) external payable {
-        require(msg.value >= fee, "Insufficient LOR");
-        story.push(Contribution(msg.sender, _line, block.timestamp));
-    }
-    
-    function getFullStory() external view returns (Contribution[] memory) {
-        return story;
-    }
-}
-```
-
 ## 🔮 Roadmap
 1. **Smart Contract V2**  
    - Dynamic fee adjustments
@@ -115,14 +89,3 @@ We welcome contributions through:
 2. Smart contract improvements
 3. Frontend development
 4. Documentation updates
-
-**First-time contributors** should review our [Contribution Guidelines](CONTRIBUTING.md).
-
-## 📄 License
-Apache 2.0 - See [LICENSE](LICENSE) for details
-
----
-
-*Powered by [Avalanche](https://avax.network) with special thanks to the Subnet-EVM team *  
-*Last Updated: 2025-05-22*
-```
