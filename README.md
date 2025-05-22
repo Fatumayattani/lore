@@ -1,8 +1,5 @@
 # Lore: Collaborative Storytelling on Avalanche L1
 
-![Lore Architecture Diagram](https://via.placeholder.com/800x400.png?text=Lore+Architecture+Diagram)
-*Fig 1. Lore architecture leveraging Avalanche L1 and Subnet-EVM *
-
 ## 🌟 Project Overview
 Lore is an experimental blockchain that transforms transactions into collaborative art. Built as an Avalanche L1 subnet, it enables users to:
 - Contribute story lines through paid transactions (LOR tokens)
