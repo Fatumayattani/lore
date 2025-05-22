@@ -84,8 +84,13 @@ avalanche blockchain deploy lore --network local
    - Immutable story NFTs 
 
 ## 🤝 Contributing
-We welcome contributions through:
-1. Story contributions (after mainnet launch)
-2. Smart contract improvements
-3. Frontend development
-4. Documentation updates
+
+We warmly welcome contributions in the following ways:
+
+1. Crafting and expanding the collaborative story (post-mainnet launch)  
+2. Enhancing and optimizing smart contract logic and security  
+3. Developing integration tools and utilities for better interaction  
+4. Designing engaging community events and challenges to boost participation  
+
+If you're passionate about storytelling, blockchain tech, or community building, your skills are invaluable here!
+
