@@ -58,30 +58,36 @@ avalanche blockchain deploy lore --network local
 ```
 
 ## 🔮 Roadmap
-1. **Smart Contract V2**  
-   - Dynamic fee adjustments
-   - NFT-based chapter rewards
-   - Governance voting for story arcs 
 
-2. **Web Interface**  
-   - Real-time story visualization
-   - Wallet integration (MetaMask/Core)
-   - Social features for contributors 
+1. **Blockchain & Smart Contract**  
+   - Completed creation of the Lore blockchain  
+   - Developed and deployed the LoreStory smart contract  
 
-3. **Testnet Deployment**  
-   - Fuji Testnet deployment
-   - Load testing with 1000+ users
-   - Gas optimization analysis 
+2. **LOR Token Development**  
+   - Design and deployment of the native LOR token  
+   - Integration of LOR token payments within the LoreStory contract  
+   - Tokenomics and distribution strategy  
 
-4. **Mainnet Launch**  
-   - Final security audit
-   - LOR token distribution plan
-   - Community governance setup 
+3. **Smart Contract V2 Enhancements**  
+   - Dynamic fee adjustments based on network activity  
+   - NFT-based chapter rewards to incentivize contributors  
+   - Governance voting mechanisms for story arc decisions  
 
-5. **Extended Features**  
-   - Cross-chain storytelling via Avalanche Warp Messaging
-   - AI-assisted narrative coherence checks
-   - Immutable story NFTs 
+4. **User Interface & Experience**  
+   - Development of a web interface with real-time story visualization  
+   - Wallet integration (MetaMask, Core Wallet, etc.)  
+   - Social features to enhance community engagement  
+
+5. **Testnet & Mainnet Milestones**  
+   - Deployment on Avalanche Fuji Testnet  
+   - Load and gas optimization testing with a growing user base  
+   - Final security audits and mainnet launch preparations  
+
+6. **Future Innovations**  
+   - Cross-chain storytelling enabled by Avalanche Warp Messaging  
+   - AI-powered tools for narrative coherence and moderation  
+   - Creation of immutable story NFTs for contributors and collectors  
+
 
 ## 🤝 Contributing
 
