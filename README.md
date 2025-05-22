@@ -52,6 +52,12 @@ avalanche blockchain create lore
 ```bash
 avalanche blockchain deploy lore --network local
 ```
+![Alt text](public/av9.png)
+
+![Alt text](public/av14.png)
+
+![Alt text](public/av11.png)
+
 
 ## 🔮 Roadmap
 
