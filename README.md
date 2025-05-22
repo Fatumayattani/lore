@@ -1,10 +1,6 @@
 # Lore: Collaborative Storytelling on Avalanche L1
 
-## 🌟 Project Overview
-Lore is an experimental blockchain that transforms transactions into collaborative art. Built as an Avalanche L1 subnet, it enables users to:
-- Contribute story lines through paid transactions (LOR tokens)
-- Create permanent, immutable narratives stored on-chain
-- Participate in community-driven storytelling economics
+Lore is a blockchain built as an Avalanche L1 subnet that transforms transactions into collaborative art. It allows users to contribute storylines through paid transactions using LOR tokens, create permanent and immutable narratives stored directly on-chain, and participate in a community-driven storytelling economy.
 
 **Core Features**  
 ✅ EVM-compatible blockchain using Subnet-EVM  
