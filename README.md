@@ -1,4 +1,3 @@
-```markdown
 # Lore: Collaborative Storytelling on Avalanche L1
 
 ![Lore Architecture Diagram](https://via.placeholder.com/800x400.png?text=Lore+Architecture+Diagram)
