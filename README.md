@@ -68,7 +68,7 @@ avalanche blockchain deploy lore --network local
 2. **LOR Token Development**  
    - Design and deployment of the native LOR token  
    - Integration of LOR token payments within the LoreStory contract  
-   - Tokenomics and distribution strategy  
+   - Tokenomics and distribution strategy
 
 3. **Smart Contract V2 Enhancements**  
    - Dynamic fee adjustments based on network activity  
